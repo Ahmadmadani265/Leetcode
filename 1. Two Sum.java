@@ -6,7 +6,6 @@ class Solution {
                 if ( target==nums[j]+ nums[i]) {
                     res[0]=i;
                     res[1]=j; 
-                    
                 } 
             } 
         }
